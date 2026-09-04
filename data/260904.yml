@@ -1,0 +1,58 @@
+about:
+  description: Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
+  license: MIT
+  homepage: 
+  head: 00247ba
+  archived: false
+  latestVersion: 0.15.1
+  collectedAt: 2026-09-04T04:18:52Z
+timeline:
+  created: 2019-09-16
+  lastCommit: 2026-09-02
+  lastRelease: 2026-09-02
+popularity:
+  star: 3047
+  watcher: 24
+  fork: 83
+  release: 26
+  contributor: 24
+  pullRequest: 6
+  issue: 112
+language:
+  Rust: 213546
+  Makefile: 4495
+  Shell: 800
+totalLine: 218841
+recent:
+  last30d:
+    since: 2026-08-05
+    release: 1
+    mergedPR: 2
+    openPR: 0
+    closedIssue: 0
+    openIssue: 1
+    commit: 4
+  last90d:
+    since: 2026-06-06
+    release: 1
+    mergedPR: 3
+    openPR: 0
+    closedIssue: 1
+    openIssue: 1
+    commit: 6
+  last180d:
+    since: 2026-03-08
+    release: 2
+    mergedPR: 7
+    openPR: 0
+    closedIssue: 2
+    openIssue: 3
+    commit: 12
+  last360d:
+    since: 2025-09-09
+    release: 5
+    mergedPR: 14
+    openPR: 0
+    closedIssue: 6
+    openIssue: 4
+    commit: 37
