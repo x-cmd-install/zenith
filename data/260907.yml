@@ -5,13 +5,13 @@ about:
   head: 00247ba
   archived: false
   latestVersion: "0.15.1"
-  collectedAt: 2026-09-07T05:05:12Z
+  collectedAt: 2026-09-07T19:19:42Z
 timeline:
   created: 2019-09-16
   lastCommit: 2026-09-02
   lastRelease: 2026-09-02
 popularity:
-  star: 3047
+  star: 3048
   watcher: 24
   fork: 83
   release: 26
@@ -81,7 +81,7 @@ total:
   commit: 571
 ---
 path: /home/runner/.x-repo/github.com/bvaisvil/zenith
-collectedAt: 2026-09-07T05:05:14Z
+collectedAt: 2026-09-07T19:19:44Z
 loc:
   Rust:
     code: 5668
@@ -225,7 +225,7 @@ checks:
       - 'Warn: 0 commits out of 30 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:05:15+00:00
+  collectedAt: 2026-09-07T19:19:44+00:00
   platform:
     darwin/arm64:
       name:  zenith-macOS-arm64.tar.gz
