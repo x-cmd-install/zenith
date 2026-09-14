@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,051 · **Forks**: 83 · **Open issues**: 112 · **Contributors**: 24
+- **Stars**: 3,052 · **Forks**: 83 · **Open issues**: 112 · **Contributors**: 24
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 1 | 2 | 0 | 0 | 1 | 4 |
-| last60d | 2026-07-15 | 1 | 2 | 0 | 0 | 1 | 4 |
-| 90d | 2026-06-15 | 1 | 3 | 0 | 1 | 1 | 6 |
-| last180d | 2026-03-17 | 2 | 7 | 0 | 2 | 3 | 11 |
-| 360d | 2025-09-18 | 5 | 14 | 0 | 6 | 4 | 37 |
-| last720d | 2024-09-23 | 5 | 18 | 0 | 13 | 9 | 71 |
+| 30d | 2026-08-15 | 1 | 2 | 0 | 0 | 1 | 4 |
+| last60d | 2026-07-16 | 1 | 2 | 0 | 0 | 1 | 4 |
+| 90d | 2026-06-16 | 1 | 3 | 0 | 1 | 1 | 6 |
+| last180d | 2026-03-18 | 2 | 7 | 0 | 2 | 3 | 11 |
+| 360d | 2025-09-19 | 5 | 14 | 0 | 6 | 4 | 37 |
+| last720d | 2024-09-24 | 5 | 18 | 0 | 13 | 9 | 71 |
 
 ## Release assets
 
@@ -81,18 +81,6 @@ Lowest-scoring checks:
 | [zenith_0.15.1-1_amd64.deb](https://github.com/bvaisvil/zenith/releases/download/0.15.1/zenith_0.15.1-1_amd64.deb) | 768.3 KiB | `runtime/deb/amd64` |
 | [zenith_0.15.1-1_amd64.deb.sha256](https://github.com/bvaisvil/zenith/releases/download/0.15.1/zenith_0.15.1-1_amd64.deb.sha256) | 92 B | `other` |
 
-## Distribution status
-
-Reported by **34** distros on [repology.org](https://repology.org/project/zenith). **10** are ✅ on the latest upstream release, **22** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `0.15.1` | ✅ latest |
-| Homebrew | `0.15.1` | ✅ latest |
-| Nix unstable | `0.15.1` | ✅ latest |
-| Alpine edge | `0.14.1` | ⚠️ outdated |
-| openSUSE Tumbleweed | `0.15.0` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for zenith lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `zenith` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -102,4 +90,4 @@ Install metadata for zenith lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:09:38Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:21:28Z._
