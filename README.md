@@ -4,7 +4,7 @@
 
 Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
 
-[![x-cmd/install — zenith Code Quality Monitoring Repo Card](https://repo.x-cmd.io/zenith.svg)](https://x-cmd.com/install/zenith)
+[![x-cmd/install — zenith Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/zenith.svg)](https://x-cmd.com/install/zenith)
 
 ## Install
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 2 | 0 | 0 | 0 | 2 |
-| last60d | 2026-07-24 | 1 | 2 | 0 | 0 | 1 | 4 |
-| 90d | 2026-06-24 | 1 | 2 | 0 | 1 | 1 | 5 |
-| last180d | 2026-03-26 | 2 | 6 | 0 | 1 | 2 | 11 |
-| 360d | 2025-09-27 | 5 | 14 | 0 | 6 | 4 | 37 |
-| last720d | 2024-10-02 | 5 | 18 | 0 | 13 | 9 | 70 |
+| 30d | 2026-08-24 | 1 | 1 | 0 | 0 | 0 | 2 |
+| last60d | 2026-07-25 | 1 | 2 | 0 | 0 | 1 | 4 |
+| 90d | 2026-06-25 | 1 | 2 | 0 | 1 | 1 | 5 |
+| last180d | 2026-03-27 | 2 | 6 | 0 | 1 | 2 | 11 |
+| 360d | 2025-09-28 | 5 | 14 | 0 | 6 | 4 | 37 |
+| last720d | 2024-10-03 | 5 | 18 | 0 | 13 | 8 | 70 |
 
 ## Release assets
 
@@ -90,4 +90,4 @@ Install metadata for zenith lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:15:31Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:12:35Z._
