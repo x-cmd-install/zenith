@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1037494,
       "digest": "sha256:6fe72d606b2f32e741d17e3154b8037ee30790bf353807619a3a12102aaf91e9",
-      "download_count": 63,
+      "download_count": 65,
       "created_at": "2026-09-02T17:09:41Z",
       "updated_at": "2026-09-02T17:09:41Z",
       "browser_download_url": "https://github.com/bvaisvil/zenith/releases/download/0.15.1/zenith-Linux-gnu-x86_64.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 97,
       "digest": "sha256:ef436acbcc98a0134984ccb0443a0afa94361e420fe4e768e5ce13cdf2008ebc",
-      "download_count": 7,
+      "download_count": 9,
       "created_at": "2026-09-02T17:09:41Z",
       "updated_at": "2026-09-02T17:09:41Z",
       "browser_download_url": "https://github.com/bvaisvil/zenith/releases/download/0.15.1/zenith-Linux-gnu-x86_64.tar.gz.sha256"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 1128234,
       "digest": "sha256:060d10f820d4d93a8546f2405f5aff6859270b41c78c2b600357aa6ac1efa7e3",
-      "download_count": 151,
+      "download_count": 154,
       "created_at": "2026-09-02T17:10:18Z",
       "updated_at": "2026-09-02T17:10:18Z",
       "browser_download_url": "https://github.com/bvaisvil/zenith/releases/download/0.15.1/zenith-Linux-musl-arm64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 97,
       "digest": "sha256:c240ccf106415120a7662046a3a9eb465fe0ef70b4dd62719156519f28ba3397",
-      "download_count": 5,
+      "download_count": 8,
       "created_at": "2026-09-02T17:10:18Z",
       "updated_at": "2026-09-02T17:10:18Z",
       "browser_download_url": "https://github.com/bvaisvil/zenith/releases/download/0.15.1/zenith-Linux-musl-arm64.tar.gz.sha256"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 1062692,
       "digest": "sha256:bf3a3235066442ae74909c3867ee1f0a3ede065623fef0520f6924201af743c9",
-      "download_count": 198,
+      "download_count": 200,
       "created_at": "2026-09-02T17:10:00Z",
       "updated_at": "2026-09-02T17:10:00Z",
       "browser_download_url": "https://github.com/bvaisvil/zenith/releases/download/0.15.1/zenith-Linux-musl-x86_64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 92,
       "digest": "sha256:72334b3fdc3be74d369f47dcff735099299337700070c8265d73365c0db6fc5f",
-      "download_count": 4,
+      "download_count": 6,
       "created_at": "2026-09-02T17:09:59Z",
       "updated_at": "2026-09-02T17:09:59Z",
       "browser_download_url": "https://github.com/bvaisvil/zenith/releases/download/0.15.1/zenith-macOS-arm64.tar.gz.sha256"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 93,
       "digest": "sha256:2746df5671e460fc8f4a1d12dfdc0dcf4be28a2c5c4e79a69cc5db57d050d95a",
-      "download_count": 4,
+      "download_count": 6,
       "created_at": "2026-09-02T17:09:47Z",
       "updated_at": "2026-09-02T17:09:47Z",
       "browser_download_url": "https://github.com/bvaisvil/zenith/releases/download/0.15.1/zenith-macOS-x86_64.tar.gz.sha256"
