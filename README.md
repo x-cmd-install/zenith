@@ -26,12 +26,12 @@ Total: **5,842** lines of code across **30** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **3.7 / 10**
+Overall score: **4 / 10**
 
 Lowest-scoring checks:
 
+- **Code-Review** (4/10) — Found 4/9 approved changesets -- score normalized to 4
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Code-Review** (3/10) — Found 3/8 approved changesets -- score normalized to 3
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 0 | 1 | 0 | 1 | 0 | 1 |
-| last60d | 2026-08-07 | 1 | 3 | 0 | 1 | 1 | 5 |
-| 90d | 2026-07-08 | 1 | 3 | 0 | 1 | 1 | 6 |
-| last180d | 2026-04-09 | 2 | 7 | 0 | 2 | 2 | 9 |
-| 360d | 2025-10-11 | 5 | 15 | 0 | 7 | 4 | 38 |
-| last720d | 2024-10-16 | 5 | 19 | 0 | 14 | 8 | 72 |
+| 30d | 2026-09-07 | 0 | 1 | 0 | 1 | 0 | 1 |
+| last60d | 2026-08-08 | 1 | 3 | 0 | 1 | 1 | 5 |
+| 90d | 2026-07-09 | 1 | 3 | 0 | 1 | 1 | 6 |
+| last180d | 2026-04-10 | 2 | 7 | 0 | 2 | 2 | 9 |
+| 360d | 2025-10-12 | 5 | 15 | 0 | 7 | 4 | 38 |
+| last720d | 2024-10-17 | 5 | 19 | 0 | 14 | 8 | 72 |
 
 ## Release assets
 
@@ -90,4 +90,4 @@ Install metadata for zenith lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261006.yml` · 2026-10-06T06:50:55Z._
+_Snapshot: `data/card/261007.yml` · 2026-10-07T06:09:34Z._
