@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 0 | 1 | 0 | 1 | 0 | 1 |
-| last60d | 2026-08-22 | 1 | 3 | 0 | 1 | 0 | 3 |
-| 90d | 2026-07-23 | 1 | 3 | 0 | 1 | 1 | 5 |
-| last180d | 2026-04-24 | 2 | 6 | 0 | 2 | 2 | 9 |
-| 360d | 2025-10-26 | 5 | 15 | 0 | 7 | 4 | 38 |
-| last720d | 2024-10-31 | 5 | 19 | 0 | 14 | 8 | 72 |
+| 30d | 2026-09-22 | 0 | 1 | 0 | 1 | 0 | 1 |
+| last60d | 2026-08-23 | 1 | 3 | 0 | 1 | 0 | 3 |
+| 90d | 2026-07-24 | 1 | 3 | 0 | 1 | 1 | 5 |
+| last180d | 2026-04-25 | 2 | 6 | 0 | 2 | 2 | 9 |
+| 360d | 2025-10-27 | 5 | 15 | 0 | 7 | 4 | 38 |
+| last720d | 2024-11-01 | 5 | 19 | 0 | 14 | 8 | 72 |
 
 ## Release assets
 
@@ -90,4 +90,4 @@ Install metadata for zenith lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T04:58:37Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T04:58:59Z._
