@@ -47,7 +47,7 @@ x install zenith
 
 ## 流行度
 
-- **Star**: 3,066 · **Fork**: 87 · **开放 issue**: 113 · **贡献者**: 24
+- **Star**: 3,065 · **Fork**: 87 · **开放 issue**: 113 · **贡献者**: 24
 
 ## 累计统计
 
@@ -57,12 +57,12 @@ x install zenith
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 1 | 0 | 1 | 0 | 1 |
-| last60d | 2026-08-23 | 1 | 3 | 0 | 1 | 0 | 3 |
-| 90d | 2026-07-24 | 1 | 3 | 0 | 1 | 1 | 5 |
-| last180d | 2026-04-25 | 2 | 6 | 0 | 2 | 2 | 9 |
-| 360d | 2025-10-27 | 5 | 15 | 0 | 7 | 4 | 38 |
-| last720d | 2024-11-01 | 5 | 19 | 0 | 14 | 8 | 72 |
+| 30d | 2026-09-23 | 0 | 1 | 0 | 1 | 0 | 1 |
+| last60d | 2026-08-24 | 1 | 2 | 0 | 1 | 0 | 3 |
+| 90d | 2026-07-25 | 1 | 3 | 0 | 1 | 1 | 5 |
+| last180d | 2026-04-26 | 2 | 6 | 0 | 2 | 2 | 9 |
+| 360d | 2025-10-28 | 5 | 15 | 0 | 7 | 4 | 38 |
+| last720d | 2024-11-02 | 5 | 19 | 0 | 14 | 8 | 72 |
 
 ## Release 资产
 
@@ -81,6 +81,18 @@ x install zenith
 | [zenith_0.15.1-1_amd64.deb](https://github.com/bvaisvil/zenith/releases/download/0.15.1/zenith_0.15.1-1_amd64.deb) | 768.3 KiB | `runtime/deb/amd64` |
 | [zenith_0.15.1-1_amd64.deb.sha256](https://github.com/bvaisvil/zenith/releases/download/0.15.1/zenith_0.15.1-1_amd64.deb.sha256) | 92 B | `other` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/zenith) 上共有 **34** 个发行版报告此项目。**11** 个 ✅ 已是最新上游版本，**21** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Arch | `0.15.1` | ✅ latest |
+| Homebrew | `0.15.1` | ✅ latest |
+| Nix unstable | `0.15.1` | ✅ latest |
+| Alpine edge | `0.14.1` | ⚠️ outdated |
+| openSUSE Tumbleweed | `0.15.1` | ✅ latest |
+
 ## 改进这些数据
 
 zenith 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `zenith` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -90,4 +102,4 @@ zenith 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261022.yml` · 2026-10-22T04:59:00Z._
+_数据快照: `data/card/261023.yml` · 2026-10-23T05:01:17Z._
