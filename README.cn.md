@@ -30,8 +30,8 @@ x install zenith
 
 评分最低的几项:
 
-- **Packaging** (-1/10) — packaging workflow not detected
 - **Code-Review** (4/10) — Found 4/9 approved changesets -- score normalized to 4
+- **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## 源代码
@@ -47,7 +47,7 @@ x install zenith
 
 ## 流行度
 
-- **Star**: 3,065 · **Fork**: 87 · **开放 issue**: 113 · **贡献者**: 24
+- **Star**: 3,066 · **Fork**: 87 · **开放 issue**: 113 · **贡献者**: 24
 
 ## 累计统计
 
@@ -57,12 +57,12 @@ x install zenith
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 0 | 1 | 0 | 1 | 0 | 0 |
-| last60d | 2026-08-28 | 1 | 2 | 0 | 1 | 0 | 3 |
-| 90d | 2026-07-29 | 1 | 3 | 0 | 1 | 1 | 5 |
-| last180d | 2026-04-30 | 2 | 6 | 0 | 2 | 2 | 9 |
-| 360d | 2025-11-01 | 5 | 15 | 0 | 7 | 4 | 38 |
-| last720d | 2024-11-06 | 5 | 19 | 0 | 14 | 8 | 72 |
+| 30d | 2026-09-28 | 0 | 1 | 0 | 1 | 0 | 0 |
+| last60d | 2026-08-29 | 1 | 2 | 0 | 1 | 0 | 3 |
+| 90d | 2026-07-30 | 1 | 3 | 0 | 1 | 1 | 5 |
+| last180d | 2026-05-01 | 2 | 6 | 0 | 2 | 2 | 9 |
+| 360d | 2025-11-02 | 5 | 15 | 0 | 6 | 4 | 38 |
+| last720d | 2024-11-07 | 5 | 19 | 0 | 14 | 8 | 72 |
 
 ## Release 资产
 
@@ -102,4 +102,4 @@ zenith 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261027.yml` · 2026-10-27T05:18:34Z._
+_数据快照: `data/card/261028.yml` · 2026-10-28T05:56:16Z._
