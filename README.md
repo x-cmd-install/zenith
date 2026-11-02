@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,066 · **Forks**: 88 · **Open issues**: 113 · **Contributors**: 24
+- **Stars**: 3,066 · **Forks**: 87 · **Open issues**: 113 · **Contributors**: 24
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-02 | 1 | 1 | 0 | 1 | 0 | 1 |
-| 90d | 2026-08-03 | 1 | 3 | 0 | 1 | 1 | 5 |
-| last180d | 2026-05-05 | 2 | 6 | 0 | 2 | 2 | 7 |
-| 360d | 2025-11-06 | 5 | 15 | 0 | 6 | 4 | 38 |
-| last720d | 2024-11-11 | 5 | 19 | 0 | 14 | 8 | 72 |
+| 30d | 2026-10-03 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-03 | 0 | 1 | 0 | 1 | 0 | 1 |
+| 90d | 2026-08-04 | 1 | 3 | 0 | 1 | 1 | 5 |
+| last180d | 2026-05-06 | 2 | 6 | 0 | 2 | 2 | 7 |
+| 360d | 2025-11-07 | 5 | 15 | 0 | 6 | 4 | 38 |
+| last720d | 2024-11-12 | 5 | 19 | 0 | 14 | 8 | 72 |
 
 ## Release assets
 
@@ -83,7 +83,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **34** distros on [repology.org](https://repology.org/project/zenith). **11** are ✅ on the latest upstream release, **21** are ⚠️ on an older version.
+Reported by **34** distros on [repology.org](https://repology.org/project/zenith). **9** are ✅ on the latest upstream release, **23** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -102,4 +102,4 @@ Install metadata for zenith lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T06:22:21Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T06:22:20Z._
