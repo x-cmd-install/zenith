@@ -1,12 +1,34 @@
-- repo: nix_stable_25_05
-  srcname: zenith-nvidia
+- repo: nix_stable_24_05
+  srcname: zenith
   visiblename: zenith
   version: 0.14.1
   origversion: null
   status: outdated
-  summary: Sort of like top or htop but with zoom-able charts, network, and disk usage, and NVIDIA GPU usage
+  summary: Sort of like top or htop but with zoom-able charts, network, and disk usage
   maintainers:
     - contact@weijia.wang
+  licenses:
+    - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: zenith
+  binname: zenith
+  visiblename: zenith
+  version: 0.15.1
+  origversion: 0.15.1-1
+  status: newest
+  summary: Terminal system monitor with histograms
+  licenses:
+    - MIT
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: zenith
+  binname: zenith
+  visiblename: zenith
+  version: 0.15.1
+  origversion: 0.15.1-1
+  status: newest
+  summary: Terminal system monitor with histograms
   licenses:
     - MIT
 - repo: alpine_3_17
@@ -113,17 +135,6 @@
     - jakub@jirutka.cz
   licenses:
     - MIT
-- repo: nix_stable_25_11
-  srcname: zenith
-  visiblename: zenith
-  version: 0.14.1
-  origversion: null
-  status: outdated
-  summary: Sort of like top or htop but with zoom-able charts, network, and disk usage
-  maintainers:
-    - contact@weijia.wang
-  licenses:
-    - MIT
 - repo: alpine_edge
   subrepo: community
   srcname: zenith
@@ -223,43 +234,10 @@
   srcname: zenith
   binname: zenith
   visiblename: zenith
-  version: 0.14.0
-  origversion: 0.14.0-2
-  status: outdated
-  summary: Terminal system monitor with histograms, written in Rust
-  licenses:
-    - MIT
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: zenith
-  binname: zenith
-  visiblename: zenith
-  version: 0.14.0
-  origversion: 0.14.0-2
-  status: outdated
-  summary: Terminal system monitor with histograms, written in Rust
-  licenses:
-    - MIT
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: zenith
-  binname: zenith
-  visiblename: zenith
   version: 0.15.1
   origversion: 0.15.1-1
   status: newest
   summary: Terminal system monitor with histograms
-  licenses:
-    - MIT
-- repo: nix_stable_24_05
-  srcname: zenith
-  visiblename: zenith
-  version: 0.14.1
-  origversion: null
-  status: outdated
-  summary: Sort of like top or htop but with zoom-able charts, network, and disk usage
-  maintainers:
-    - contact@weijia.wang
   licenses:
     - MIT
 - repo: nix_stable_24_05
@@ -296,6 +274,28 @@
   licenses:
     - MIT
 - repo: nix_stable_25_05
+  srcname: zenith
+  visiblename: zenith
+  version: 0.14.1
+  origversion: null
+  status: outdated
+  summary: Sort of like top or htop but with zoom-able charts, network, and disk usage
+  maintainers:
+    - contact@weijia.wang
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: zenith-nvidia
+  visiblename: zenith
+  version: 0.14.1
+  origversion: null
+  status: outdated
+  summary: Sort of like top or htop but with zoom-able charts, network, and disk usage, and NVIDIA GPU usage
+  maintainers:
+    - contact@weijia.wang
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
   srcname: zenith
   visiblename: zenith
   version: 0.14.1
