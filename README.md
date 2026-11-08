@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,068 · **Forks**: 87 · **Open issues**: 113 · **Contributors**: 24
+- **Stars**: 3,069 · **Forks**: 87 · **Open issues**: 113 · **Contributors**: 24
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-08 | 0 | 1 | 0 | 1 | 0 | 1 |
-| 90d | 2026-08-09 | 1 | 3 | 0 | 1 | 1 | 5 |
-| last180d | 2026-05-11 | 1 | 5 | 0 | 2 | 2 | 7 |
-| 360d | 2025-11-12 | 5 | 15 | 0 | 6 | 4 | 38 |
-| last720d | 2024-11-17 | 5 | 19 | 0 | 13 | 8 | 72 |
+| 30d | 2026-10-09 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-09 | 0 | 1 | 0 | 1 | 0 | 1 |
+| 90d | 2026-08-10 | 1 | 3 | 0 | 1 | 1 | 5 |
+| last180d | 2026-05-12 | 1 | 5 | 0 | 2 | 2 | 7 |
+| 360d | 2025-11-13 | 5 | 15 | 0 | 6 | 4 | 36 |
+| last720d | 2024-11-18 | 5 | 19 | 0 | 13 | 8 | 72 |
 
 ## Release assets
 
@@ -102,4 +102,4 @@ Install metadata for zenith lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T06:13:03Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T06:16:03Z._
