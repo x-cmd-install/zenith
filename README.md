@@ -31,8 +31,8 @@ Overall score: **3.9 / 10**
 Lowest-scoring checks:
 
 - **Code-Review** (4/10) — Found 4/9 approved changesets -- score normalized to 4
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 
 ## Source
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-11 | 0 | 1 | 0 | 1 | 0 | 1 |
-| 90d | 2026-08-12 | 1 | 3 | 0 | 1 | 1 | 5 |
-| last180d | 2026-05-14 | 1 | 5 | 0 | 2 | 2 | 7 |
-| 360d | 2025-11-15 | 5 | 14 | 0 | 6 | 4 | 36 |
-| last720d | 2024-11-20 | 5 | 19 | 0 | 13 | 8 | 72 |
+| 30d | 2026-10-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-12 | 0 | 1 | 0 | 1 | 0 | 1 |
+| 90d | 2026-08-13 | 1 | 3 | 0 | 1 | 1 | 5 |
+| last180d | 2026-05-15 | 1 | 5 | 0 | 2 | 2 | 7 |
+| 360d | 2025-11-16 | 5 | 14 | 0 | 6 | 4 | 36 |
+| last720d | 2024-11-21 | 5 | 19 | 0 | 13 | 8 | 72 |
 
 ## Release assets
 
@@ -102,4 +102,4 @@ Install metadata for zenith lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T07:37:31Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T06:39:01Z._
