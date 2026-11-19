@@ -26,13 +26,13 @@ Total: **5,842** lines of code across **30** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **3.9 / 10**
+Overall score: **3.7 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (4/10) — Found 4/9 approved changesets -- score normalized to 4
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Code-Review** (3/10) — Found 3/10 approved changesets -- score normalized to 3
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
 
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,070 · **Forks**: 86 · **Open issues**: 113 · **Contributors**: 23
+- **Stars**: 3,075 · **Forks**: 86 · **Open issues**: 113 · **Contributors**: 23
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-18 | 0 | 1 | 0 | 1 | 0 | 1 |
-| 90d | 2026-08-19 | 1 | 3 | 0 | 1 | 0 | 3 |
-| last180d | 2026-05-21 | 1 | 4 | 0 | 2 | 1 | 6 |
-| 360d | 2025-11-22 | 5 | 13 | 0 | 6 | 4 | 35 |
-| last720d | 2024-11-27 | 5 | 17 | 0 | 11 | 6 | 71 |
+| 30d | 2026-10-20 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-20 | 0 | 1 | 0 | 1 | 0 | 1 |
+| 90d | 2026-08-21 | 1 | 3 | 0 | 1 | 0 | 3 |
+| last180d | 2026-05-23 | 1 | 4 | 0 | 2 | 1 | 6 |
+| 360d | 2025-11-24 | 5 | 13 | 0 | 6 | 4 | 35 |
+| last720d | 2024-11-29 | 5 | 17 | 0 | 11 | 6 | 71 |
 
 ## Release assets
 
@@ -102,4 +102,4 @@ Install metadata for zenith lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T09:15:46Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T08:16:46Z._
