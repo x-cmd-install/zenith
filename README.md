@@ -26,13 +26,13 @@ Total: **5,842** lines of code across **30** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **3.7 / 10**
+Overall score: **3.4 / 10**
 
 Lowest-scoring checks:
 
+- **Maintained** (4/10) — 5 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 4
 - **Code-Review** (3/10) — Found 3/10 approved changesets -- score normalized to 3
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-25 | 0 | 1 | 0 | 1 | 0 | 1 |
-| 90d | 2026-08-26 | 1 | 2 | 0 | 1 | 0 | 3 |
-| last180d | 2026-05-28 | 1 | 4 | 0 | 2 | 1 | 6 |
-| 360d | 2025-11-29 | 5 | 12 | 0 | 5 | 4 | 35 |
-| last720d | 2024-12-04 | 5 | 17 | 0 | 10 | 6 | 71 |
+| 30d | 2026-10-26 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-26 | 0 | 1 | 0 | 1 | 0 | 1 |
+| 90d | 2026-08-27 | 1 | 2 | 0 | 1 | 0 | 3 |
+| last180d | 2026-05-29 | 1 | 4 | 0 | 2 | 1 | 6 |
+| 360d | 2025-11-30 | 5 | 12 | 0 | 5 | 4 | 35 |
+| last720d | 2024-12-05 | 5 | 17 | 0 | 10 | 6 | 71 |
 
 ## Release assets
 
@@ -81,18 +81,6 @@ Lowest-scoring checks:
 | [zenith_0.15.1-1_amd64.deb](https://github.com/bvaisvil/zenith/releases/download/0.15.1/zenith_0.15.1-1_amd64.deb) | 768.3 KiB | `runtime/deb/amd64` |
 | [zenith_0.15.1-1_amd64.deb.sha256](https://github.com/bvaisvil/zenith/releases/download/0.15.1/zenith_0.15.1-1_amd64.deb.sha256) | 92 B | `other` |
 
-## Distribution status
-
-Reported by **34** distros on [repology.org](https://repology.org/project/zenith). **11** are ✅ on the latest upstream release, **21** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `0.15.1` | ✅ latest |
-| Homebrew | `0.15.1` | ✅ latest |
-| Nix unstable | `0.15.1` | ✅ latest |
-| Alpine edge | `0.14.1` | ⚠️ outdated |
-| openSUSE Tumbleweed | `0.15.1` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for zenith lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `zenith` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -102,4 +90,4 @@ Install metadata for zenith lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:24:33Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:54:29Z._
